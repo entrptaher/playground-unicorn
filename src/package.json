@@ -1,0 +1,13 @@
+{
+  "name": "unicorn",
+  "productName": "Unicorn",
+  "version": "0.0.0",
+  "description": "My astonishing app",
+  "license": "MIT",
+  "repository": "entrptaher/unicorn",
+  "author": {
+    "name": "Abu Taher",
+    "email": "entrptaher@gmail.com",
+    "url": "github.com"
+  }
+}
